@@ -1,3 +1,0 @@
-Brower -> Server: 
-
-Server -> Browser: 
